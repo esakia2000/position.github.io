@@ -1,0 +1,92 @@
+.ex {
+    float: left;
+    font-size: 55px;
+    color: #FF7A00;
+    margin-left: 140px;
+    margin-top: 10px;
+}
+
+.info {
+    margin-top: 38px;
+    margin-right: 35px;
+    float: left;
+    font-size: 19px;
+    color: #181C28;
+}
+
+.bazer {
+    float: left;
+    margin-top: 70px;
+    font-size: 24px;
+    color: #FF7A00;
+    margin-right: 120px;
+}
+
+.wrapper-m {
+    margin-top: 86px;
+    margin-left: 136px;
+    width: 1330px;
+    height: 660px;
+}
+
+.wrapper-l {
+    float: left;
+    width: 636px;
+    height: 660px;
+}
+
+.wrapper-r {
+    float: right;
+    width: 636px;
+    height: 660px;
+}
+
+.txt1 {
+    margin-top: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 43px;
+}
+
+.txt2 {
+    margin-top: 24px;
+    font-size: 20px;
+    color: #7B7B7B;
+}
+
+.txt3 {
+    margin-top: 13px;
+    color: #FF7A00;
+    font-size: 18px;
+}
+
+.wrap-img {
+    height: 382px;
+    position: relative;
+    width: 100%;
+}
+
+.pop {
+    margin-top: 84px;
+    margin-left: 172px;
+    font-size: 22px;
+    color: #FF7A00;
+}
+
+.lorium {
+    font-family: Playfair Display, ;
+    color: #ffff;
+    font-size: 22px;
+    margin-top: 105px;
+    margin-left: 647px;
+    background-repeat: no-repeat;
+    position: absolute;
+}
+
+.blog {
+    font-family: Playfair Display, ;
+    color: #ffff;
+    font-size: 48px;
+    margin-left: 700px;
+    margin-top: 132px;
+    position: absolute;
+}
